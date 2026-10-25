@@ -1,0 +1,9 @@
+/build/
+/build-*/
+*.zip
+*.exe
+*.obj
+*.pdb
+*.ilk
+CMakeUserPresets.json
+.vs/
